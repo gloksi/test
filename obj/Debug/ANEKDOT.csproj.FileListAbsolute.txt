@@ -1,0 +1,14 @@
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\bin\Debug\ANEKDOT.exe.config
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\bin\Debug\ANEKDOT.exe
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\bin\Debug\ANEKDOT.pdb
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.Form1.resources
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.exe
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.pdb
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.Form2.resources
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.Form3.resources
+C:\Users\Alexandr\Desktop\ANEKDOT\ANEKDOT\obj\Debug\ANEKDOT.Form4.resources
